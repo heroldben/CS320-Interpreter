@@ -1,0 +1,9 @@
+def SQDIST
+  dup     
+  *     
+  swap    
+  dup     
+  *     
+  + 
+;
+
